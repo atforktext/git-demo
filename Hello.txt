@@ -1,4 +1,4 @@
-hello git status22222222
+hello git status2222
 hello git status
 hello git status
 hello git status
@@ -15,52 +15,3 @@ hello git status
 hello git status
 hello git status
 hello git status
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
